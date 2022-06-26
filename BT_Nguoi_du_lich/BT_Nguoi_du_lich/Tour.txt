@@ -1,0 +1,11 @@
+1;a;null;Chùa một cột->Núi trầm->HT Thăng Long->Phố cổ->Văn miếu->Chợ đồng xuân->Chùa một cột;49
+1;a;Nhà hát lớn;Nhà hát lớn->Núi trầm->Nhà Thờ->Hồ Gươm->Lăng Bác->Nhà tù hỏa lò->Nhà hát lớn;18
+1;e;Hồ Gươm;Hồ Gươm->Nhà Thờ->Núi trầm->Văn miếu->Chợ đồng xuân->Cầu Long Biên->Phố cổ->Nhà hát lớn->Nhà tù hỏa lò->Hồ tây->Hồ Gươm;61
+1;e;Hồ Gươm;Hồ Gươm->Nhà Thờ->Núi trầm->Văn miếu->Chợ đồng xuân->Cầu Long Biên->Phố cổ->Nhà hát lớn->Nhà tù hỏa lò->Hồ tây->Hồ Gươm;61
+1;e;Hồ Gươm;Hồ Gươm->Nhà Thờ->Núi trầm->Văn miếu->Chợ đồng xuân->Cầu Long Biên->Phố cổ->Nhà hát lớn->Nhà tù hỏa lò->Hồ tây->Hồ Gươm;61
+1;e;Hồ Gươm;Hồ Gươm->Nhà Thờ->Núi trầm->Văn miếu->Chợ đồng xuân->Cầu Long Biên->Phố cổ->Nhà hát lớn->Nhà tù hỏa lò->Hồ tây->Hồ Gươm;61
+1;e;Hồ Gươm;Hồ Gươm->Nhà Thờ->Núi trầm->Văn miếu->Chợ đồng xuân->Cầu Long Biên->Phố cổ->Nhà hát lớn->Nhà tù hỏa lò->Hồ tây->Hồ Gươm;61
+1;;Hồ Gươm;Hồ Gươm->Núi trầm->Cầu Long Biên->Lăng Bác->Văn miếu->Nhà Thờ->Hồ Gươm;10
+1;;Hồ Gươm;Hồ Gươm->Nhà Thờ->Núi trầm->HT Thăng Long->Hồ Gươm;4
+1;;Hồ Gươm;Hồ Gươm->Nhà Thờ->Núi trầm->HT Thăng Long->Hồ Gươm;4
+1;;Hồ Gươm;Hồ Gươm->Núi trầm->Cầu Long Biên->Văn miếu->Nhà tù hỏa lò->Nhà Thờ->Hồ Gươm;17

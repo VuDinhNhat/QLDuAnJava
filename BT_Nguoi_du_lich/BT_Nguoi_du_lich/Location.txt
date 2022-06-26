@@ -1,0 +1,15 @@
+1;Hồ Gươm
+2;Lăng Bác
+3;Nhà thờ lớn
+4;Hồ Tây
+5;Chùa Một Cột
+6;Hoàng thành Thăng Long
+7;Nhà tù Hỏa 
+8;Văn Miếu
+9;Phố cổ
+10;Núi Trầm
+11;Nhà hát lớn
+12;Cầu Long Biên
+13;Ga Hà Nội
+14;Chợ Đồng Xuân
+15;Cột cờ Hà Nội
